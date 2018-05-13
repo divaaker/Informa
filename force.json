@@ -1,7 +1,7 @@
 {
     "autoRefresh": false,
     "browser": "Google Chrome Canary",
-    "pollTimeout": 1200,
+    "pollTimeout": 1000,
     "debugOnly": true,
     "debugFilter": "USER_DEBUG|FATAL_ERROR",
     "apiVersion": "38.0",
